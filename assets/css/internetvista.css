@@ -1,0 +1,122 @@
+#wp-internetvista.postbox .inside { text-align: center; }
+a.handlediv-internetvista {
+	cursor: default !important;
+	display: block;
+	float: right;
+	width: 27px;
+
+	color: #aaa;
+	font-size: 13px;
+}
+
+a.handlediv-internetvista:before {
+	content: "\f111" !important;
+	width: 20px;
+	height: 20px;
+	padding: 8px 10px;
+
+	right: 12px;
+	font: 400 20px/1 dashicons;
+	speak: none;
+	display: inline-block;
+	top: 0;
+	position: relative;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	text-decoration: none!important;
+	cursor: pointer !important;
+}
+a.handlediv-internetvista:focus { border: 0px !important; box-shadow: none !important; }
+a.handlediv-internetvista:hover { color: #777 !important; }
+
+#internetvista-chart-tab { margin: 0 auto; width: 800px;  }
+#internetvista-settings-tab { width: 800px; margin: auto; }
+#internetvista-chart-tab #internetvista-chart-wrapper { background-color: white; border: 1px solid #e5e5e5; }
+#internetvista-chart-tab #internetvista-chart-wrapper>div { margin-top: 20px; }
+
+#internetvista-settings-tab h2,
+#internetvista-chart-tab h2,
+.internetvista-wrap h2 {
+	margin-top: 40px;
+	margin-bottom: 40px;
+	text-align: center;
+}
+
+.internetvista-wrap h2+em { display: block; text-align: center; margin-top: -40px; margin-bottom: 40px; }
+
+#internetvista-uptime { min-width: 350px; height: 200px; margin: 0 auto; }
+.internetvista-uptime-legend { text-align: center; }
+.internetvista-uptime-legend span:first-child { font-size: 20px; line-height: 20px; }
+.internetvista-uptime-legend span:last-child { font-size:12px; font-weight: 100; }
+
+#internetvista-responsetime-wrapper { margin: 0 auto; }
+#internetvista-responsetime { min-width: 350px; height: 400px; margin: 0 auto; }
+
+#internetvista-date-interval {   text-align: right; display: block; font-size: 10px; margin: 10px 0 0 0; }
+
+#ivista_choose_interval { width: 800px; margin: 0 auto; clear: both; }
+#ivista_choose_interval input,
+#ivista_choose_interval select { float: left; }
+#ivista_choose_interval input[type='submit'] { float: right !important; }
+
+.graph-error { text-align: center; padding: 10px; }
+.internetvista-no-graph { text-align: center; margin: 20px; }
+
+label.internetvista-interval { float: left; line-height: 30px; margin-right: 5px; }
+
+div.submit-wrapper { margin: 0; padding: 1.5em 0; }
+div.submit-wrapper p.submit { margin: 0; padding: 0; display: inline !important; float: right; }
+/*#internetvista-authenticate p.submit { margin: 0 !important; padding: 0 !important; display: inline; }
+#internetvista-authenticate span { margin: 0 5px; line-height: 28px; }*/
+div.submit-wrapper .button-secondary { float: left;  }
+div.submit-wrapper .button-primary   { float: right; }
+
+
+#internetvista-authenticate { width: 800px; margin: 0 auto; }
+#internetvista-authenticate table.form-table {
+	border: 1px solid #e5e5e5;
+	-webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, .04);
+	box-shadow: 0 1px 1px rgba(0, 0, 0, .04);
+	background: #fff;
+	width: 100%;
+	margin: 0 auto;
+}
+#internetvista-authenticate table.form-table { border-spacing: 0; clear: both; margin: 0 }
+#internetvista-authenticate table.form-table * { word-wrap: break-word }
+#internetvista-authenticate table.form-table a { text-decoration: none }
+#internetvista-authenticate table.form-table td,
+#internetvista-authenticate table.form-table th { padding: 15px 10px }
+#internetvista-authenticate table.form-table thead th { border-bottom: 1px solid #e1e1e1 }
+#internetvista-authenticate table.form-table tfoot th { border-top: 1px solid #e1e1e1; border-bottom: none }
+#internetvista-authenticate table.form-table .no-items td { border-bottom-width: 0 }
+#internetvista-authenticate table.form-table td { vertical-align: top }
+#internetvista-authenticate table.form-table td,
+#internetvista-authenticate table.form-table td ol,
+#internetvista-authenticate table.form-table td p,
+#internetvista-authenticate table.form-table td ul { font-size: 13px; line-height: 1.5em }
+#internetvista-authenticate table.form-table th { text-align: left; line-height: 1.3em; font-size: 14px }
+#internetvista-authenticate table.form-table th input { margin: 0 0 0 8px; padding: 0; vertical-align: text-top }
+#internetvista-authenticate table.form-table .check-column { width: 2.2em; padding: 6px 0 25px; vertical-align: top }
+#internetvista-authenticate table.form-table th input[type=checkbox] { margin-top: -1px }
+#internetvista-authenticate table.form-table.media .check-column { padding-top: 8px }
+#internetvista-authenticate table.form-table tbody th.check-column,
+#internetvista-authenticate table.form-table tfoot th.check-column,
+#internetvista-authenticate table.form-table thead th.check-column { padding: 11px 0 0 3px }
+#internetvista-authenticate table.form-table thead th.check-column { padding-top: 10px }
+#internetvista-authenticate table.form-table td,
+#internetvista-authenticate table.form-table th { color: #555 }
+#internetvista-authenticate table.form-table th { font-weight: 400 }
+#internetvista-authenticate table.form-table tfoot tr th,
+#internetvista-authenticate table.form-table thead tr th { color: #32373c }
+#internetvista-authenticate table.form-table td p { margin: 2px 0 .8em }
+#internetvista-authenticate table.form-table ol,
+#internetvista-authenticate table.form-table p,
+#internetvista-authenticate table.form-table ul { color: #32373c }
+#internetvista-authenticate table.form-table .column-comment p { margin: .6em 0 }
+#internetvista-authenticate table.form-table .num { text-align: center }
+#internetvista-authenticate table.form-table th#comments { vertical-align: middle }
+#internetvista-authenticate table.form-table tfoot th,
+#internetvista-authenticate table.form-table thead th { line-height: 1.4em }
+#internetvista-authenticate a.internetvista-register { float: left; }
+
+.internetvista-wrap { width: 800px; margin: 20px auto 0 auto; }

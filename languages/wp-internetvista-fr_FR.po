@@ -1,0 +1,309 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: InternetVista\n"
+"POT-Creation-Date: 2015-06-10 16:15+0100\n"
+"PO-Revision-Date: 2015-06-10 16:15+0100\n"
+"Last-Translator: Laloux Renaud <renaud.laloux@gmail.com>\n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: C:\\development\\workspaces\\php-storm\\wp-"
+"internetvista\n"
+
+#: C:\development\workspaces\php-storm\wp-internetvista/wp-internetvista.php:91
+msgid "Yesterday"
+msgstr "Hier"
+
+#: C:\development\workspaces\php-storm\wp-internetvista/wp-internetvista.php:92
+msgid "This week"
+msgstr "Cette semaine"
+
+#: C:\development\workspaces\php-storm\wp-internetvista/wp-internetvista.php:93
+msgid "The last 7 days"
+msgstr "Cette semaine"
+
+#: C:\development\workspaces\php-storm\wp-internetvista/wp-internetvista.php:94
+msgid "Last week"
+msgstr "La semaine passée"
+
+#: C:\development\workspaces\php-storm\wp-internetvista/wp-internetvista.php:95
+msgid "Last 30 days"
+msgstr "Les 30 derniers jours"
+
+#: C:\development\workspaces\php-storm\wp-internetvista/wp-internetvista.php:96
+msgid "Last month"
+msgstr "Le mois passé"
+
+#: C:\development\workspaces\php-storm\wp-internetvista/wp-internetvista.php:97
+msgid "This year"
+msgstr "Cette année"
+
+#: C:\development\workspaces\php-storm\wp-internetvista/wp-internetvista.php:98
+msgid "The last 365 days"
+msgstr "Les 365 derniers jours"
+
+#: C:\development\workspaces\php-storm\wp-internetvista/wp-internetvista.php:99
+msgid "Last year"
+msgstr "L'année passé"
+
+#: C:\development\workspaces\php-storm\wp-internetvista/wp-internetvista.php:100
+msgid "Between two dates"
+msgstr "Entre deux dates"
+
+#: C:\development\workspaces\php-storm\wp-internetvista/wp-internetvista.php:109
+#: C:\development\workspaces\php-storm\wp-internetvista/wp-internetvista.php:395
+#: C:\development\workspaces\php-storm\wp-internetvista/wp-internetvista.php:683
+msgid "Settings"
+msgstr "Configuration"
+
+#: C:\development\workspaces\php-storm\wp-internetvista/wp-internetvista.php:340
+msgid "Login"
+msgstr "Login"
+
+#: C:\development\workspaces\php-storm\wp-internetvista/wp-internetvista.php:341
+msgid "The email address allowing you to connect to your internetVista account"
+msgstr ""
+"L'adresse email vous permettant de vous connecter à votre compte "
+"internetVista"
+
+#: C:\development\workspaces\php-storm\wp-internetvista/wp-internetvista.php:347
+msgid "Password"
+msgstr "Password"
+
+#: C:\development\workspaces\php-storm\wp-internetvista/wp-internetvista.php:348
+msgid "The password allowing you to log into your internetVista account"
+msgstr ""
+"Le mot de passe vous permettant de vous connecter à votre compte "
+"internetVista"
+
+#: C:\development\workspaces\php-storm\wp-internetvista/wp-internetvista.php:354
+msgid "Application ID"
+msgstr "Application ID"
+
+#: C:\development\workspaces\php-storm\wp-internetvista/wp-internetvista.php:360
+msgid "Interval type"
+msgstr "Type d'interval"
+
+#: C:\development\workspaces\php-storm\wp-internetvista/wp-internetvista.php:366
+msgid "Interval start date"
+msgstr "Début d'interval"
+
+#: C:\development\workspaces\php-storm\wp-internetvista/wp-internetvista.php:372
+msgid "Interval end date"
+msgstr "Fin d'interval"
+
+#: C:\development\workspaces\php-storm\wp-internetvista/wp-internetvista.php:378
+msgid "Interval date difference"
+msgstr "Différence de l'interval"
+
+#: C:\development\workspaces\php-storm\wp-internetvista/wp-internetvista.php:484
+msgid "InternetVista"
+msgstr "InternetVista"
+
+#: C:\development\workspaces\php-storm\wp-internetvista/wp-internetvista.php:513
+#: C:\development\workspaces\php-storm\wp-internetvista/wp-internetvista.php:1123
+msgid "Unable to get application list"
+msgstr "Impossible de récupérer la liste des applications"
+
+#: C:\development\workspaces\php-storm\wp-internetvista/wp-internetvista.php:523
+msgid "Settings of the internetVista monitoring module"
+msgstr "Configuration du module de monitoring internetVista"
+
+#: C:\development\workspaces\php-storm\wp-internetvista/wp-internetvista.php:525
+msgid "Select in the list below the application that you want to monitor."
+msgstr ""
+"Choisissez dans la liste l'application dont vous voulez voir les performances"
+
+#: C:\development\workspaces\php-storm\wp-internetvista/wp-internetvista.php:531
+msgid "Alias"
+msgstr "Alias"
+
+#: C:\development\workspaces\php-storm\wp-internetvista/wp-internetvista.php:532
+msgid "Label"
+msgstr "Label"
+
+#: C:\development\workspaces\php-storm\wp-internetvista/wp-internetvista.php:565
+msgid "Change account"
+msgstr "Changer de compte"
+
+#: C:\development\workspaces\php-storm\wp-internetvista/wp-internetvista.php:568
+msgid "Select an application"
+msgstr "Choisir cette application"
+
+#: C:\development\workspaces\php-storm\wp-internetvista/wp-internetvista.php:591
+msgid "Performance of your application"
+msgstr "Performance de votre application"
+
+#: C:\development\workspaces\php-storm\wp-internetvista/wp-internetvista.php:601
+#: C:\development\workspaces\php-storm\wp-internetvista/wp-internetvista.php:675
+msgid "No data to plot"
+msgstr "Aucune donnée disponible"
+
+#: C:\development\workspaces\php-storm\wp-internetvista/wp-internetvista.php:610
+msgid "Period to inspect"
+msgstr "Periode"
+
+#: C:\development\workspaces\php-storm\wp-internetvista/wp-internetvista.php:660
+msgid "Statistics between"
+msgstr "Statistiques depuis"
+
+#: C:\development\workspaces\php-storm\wp-internetvista/wp-internetvista.php:673
+msgid "You need to configure the plugin first"
+msgstr "Vous devez d'abort configurer le plugin"
+
+#: C:\development\workspaces\php-storm\wp-internetvista/wp-internetvista.php:831
+msgid "Average response time"
+msgstr "Tps réponse moyen"
+
+#: C:\development\workspaces\php-storm\wp-internetvista/wp-internetvista.php:840
+msgid "Time in milliseconds"
+msgstr "Temps en millisecondes"
+
+#: C:\development\workspaces\php-storm\wp-internetvista/wp-internetvista.php:849
+msgid "Response time"
+msgstr "Temps de réponse"
+
+#: C:\development\workspaces\php-storm\wp-internetvista/wp-internetvista.php:908
+msgid "Average up time"
+msgstr "Uptime moyen"
+
+#: C:\development\workspaces\php-storm\wp-internetvista/wp-internetvista.php:919
+msgid "Uptime percentage"
+msgstr "% uptime"
+
+#: C:\development\workspaces\php-storm\wp-internetvista/wp-internetvista.php:1036
+msgid "InternetVista monitoring"
+msgstr "InternetVista monitoring"
+
+#: C:\development\workspaces\php-storm\wp-internetvista/wp-internetvista.php:1037
+msgid "Monitoring of your website performance"
+msgstr "Surveillance de la performance de votre site Web"
+
+#: C:\development\workspaces\php-storm\wp-internetvista/wp-internetvista.php:1046
+msgid "Register"
+msgstr "S'enregistrer"
+
+#: C:\development\workspaces\php-storm\wp-internetvista/wp-internetvista.php:1047
+msgid "Connexion"
+msgstr "Connexion"
+
+#: C:\development\workspaces\php-storm\wp-internetvista/wp-internetvista.php:1136
+msgid "Selected application does not exist"
+msgstr "L'application sélèctionnée n'existe pas"
+
+#: C:\development\workspaces\php-storm\wp-internetvista/wp-internetvista.php:1166
+msgid "Please, select an application in the list"
+msgstr "Veuillez sélèctionner une application dans la liste"
+
+#: C:\development\workspaces\php-storm\wp-internetvista/wp-internetvista.php:1196
+msgid "Welcome in the settings of you intervetVista plugin"
+msgstr "Bienvenu dans la configuration de votre plugin internetVista"
+
+#: C:\development\workspaces\php-storm\wp-internetvista/wp-internetvista.php:1198
+msgid ""
+"InternetVista allow you to know at any time the performance of you web site."
+msgstr ""
+"InternetVista vous permet de connaître à tout moment la performance de votre "
+"site internet."
+
+#: C:\development\workspaces\php-storm\wp-internetvista/wp-internetvista.php:1199
+msgid ""
+"As soon as an anomaly appears, you are notified directly by email, sms or "
+"notification."
+msgstr ""
+"Dès qu'une anomalie apparaît, vous êtes avertis directement par email, sms "
+"ou notification."
+
+#: C:\development\workspaces\php-storm\wp-internetvista/wp-internetvista.php:1200
+msgid ""
+"This module allow you to display most important monitoring metrics within "
+"your dashboard: <b>uptime</b> and <b>average response time</b>."
+msgstr ""
+"Ce module vous permet d'afficher directement dans votre tableau de bord les "
+"métriques de monitoring les plus important: <b>uptime</b> et le <b>temps de "
+"réponse moyen</b>."
+
+#: C:\development\workspaces\php-storm\wp-internetvista/wp-internetvista.php:1202
+#, php-format
+msgid ""
+"In order to use this module you will simply need to freely <a href=\"%s\" "
+"title=\"Register now for free !\">register on internetVista</a> and fulfill "
+"the following form with you internetVista's email and password."
+msgstr ""
+"Pour utiliser le module de monitoring, il faut  simplement <a href=\"%s\" "
+"title=\"Inscription gratuite !\">être inscrit chez internetVista</a> et "
+"remplir le formulaire suivant avec vos information de connexion à "
+"internetVista."
+
+#: C:\development\workspaces\php-storm\wp-internetvista/wp-internetvista.php:1204
+msgid "Connect with you internetVista login"
+msgstr "Connexion avec votre login internetVista"
+
+#: C:\development\workspaces\php-storm\wp-internetvista/wp-internetvista.php:1250
+#: C:\development\workspaces\php-storm\wp-internetvista/wp-internetvista.php:1263
+#: C:\development\workspaces\php-storm\wp-internetvista/wp-internetvista.php:1276
+msgid "Default:"
+msgstr "Par defaut:"
+
+#: C:\development\workspaces\php-storm\wp-internetvista/wp-internetvista.php:1298
+#, php-format
+msgid "must be >= '%s',"
+msgstr "doit être >= '%s',"
+
+#: C:\development\workspaces\php-storm\wp-internetvista/wp-internetvista.php:1299
+msgid "so we used the default value instead."
+msgstr "nous avons utilisé la valeur par défaut à la place."
+
+#: C:\development\workspaces\php-storm\wp-internetvista/wp-internetvista.php:1329
+msgid "must be an integer,"
+msgstr "doit être un entier,"
+
+#: C:\development\workspaces\php-storm\wp-internetvista/wp-internetvista.php:1377
+msgid "Unexpected exception occurred"
+msgstr "Une erreur inatendue s'est produite"
+
+#: C:\development\workspaces\php-storm\wp-internetvista/wp-internetvista.php:1381
+msgid "Unable to authenticate"
+msgstr "Authentification impossible"
+
+#~ msgid "Welcome"
+#~ msgstr "Bienvenu"
+
+#~ msgid "Since the beginning"
+#~ msgstr "Depuis le début"
+
+#~ msgid ""
+#~ "L'adresse email vous permettant de vous connecter à votre compte "
+#~ "internetVista"
+#~ msgstr ""
+#~ "L'adresse email vous permettant de vous connecter à votre compte "
+#~ "internetVista"
+
+#~ msgid ""
+#~ "Le mot de passe vous permettant de vous connecter à votre compte "
+#~ "internetVista"
+#~ msgstr ""
+#~ "Le mot de passe vous permettant de vous connecter à votre compte "
+#~ "internetVista"
+
+#~ msgid "Configuration du module de monitoring internetVista"
+#~ msgstr "Configuration du module de monitoring internetVista"
+
+#~ msgid ""
+#~ "Choisissez dans la liste l’application dont vous voulez voir les "
+#~ "performances"
+#~ msgstr ""
+#~ "Choisissez dans la liste l’application dont vous voulez voir les "
+#~ "performances"
+
+#~ msgid "Choisir cette application"
+#~ msgstr "Choisir cette application"
+
+#~ msgid "Configure"
+#~ msgstr "Configurer"
