@@ -1,4 +1,4 @@
-=== InternetVista ===
+=== Website Monitoring by internetVista ===
 Contributors: InternetVista
 Tags: monitoring, internetvista, website monitoring, web performance
 Requires at least: 3.0
