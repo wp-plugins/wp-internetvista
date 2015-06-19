@@ -13,14 +13,13 @@ Show directly in your wordpress dashboard the performance of your website (uptim
 
 This plugin allows you to display directly and simply the performance of your website in your wordpress dashboard.
 
-= Web monitoring is... =
-The website monitoring will help you to:
+= The website monitoring will help you to: =
 * Measure the performance of your website
 * Put your web infrastructure under high surveillance
 * Prevent breakdowns of your website or your blog
 * Prove the quality of your web solutions
 
-The major advantages of our web monitoring services are:
+= The major advantages of our web monitoring services are: =
 * Monitoring provided 24x7x365
 * Nothing to install, nothing to develop
 * Hosters-independent
@@ -63,12 +62,12 @@ Our advantages reside in the quality of our service, in our aspiration to always
 
 = How do I have my monitoring started? =
 The internetVista® services allow you to monitor your internet applications. These applications can be web sites (http), secured web sites (https), file servers (ftp), domain name servers (dns), email servers (smtp, imap and pop), newsgroup servers (nntp), servers (ping), database servers (mysql) or your own applications based directly on tcp and udp.
-Startup procedure: 
-* If you wish, change password that has been sent to you by email.
-* Define media by which you want to be contacted by internetVista® in case of problem detection during the monitoring of your applications. It can be email addresses or telephones which can receive SMS.  By default, an email medium has been created with your email address. You can preserve this medium, adapt or suppress it. It is also via email media that you can decide to receive activity reports.
-* Define your applications to be monitored and associate them to the media defined before. The same media can be associated with several different applications.
-* Consult and update your user data, such as last name, first name, address, language, etc.
-* Update the configuration of your account so that you can use the whole set of services offered by internetVista®.
+= Startup procedure: = 
+* if you wish, change password that has been sent to you by email.
+* define media by which you want to be contacted by internetVista® in case of problem detection during the monitoring of your applications. It can be email addresses or telephones which can receive SMS.  By default, an email medium has been created with your email address. You can preserve this medium, adapt or suppress it. It is also via email media that you can decide to receive activity reports.
+* define your applications to be monitored and associate them to the media defined before. The same media can be associated with several different applications.
+* consult and update your user data, such as last name, first name, address, language, etc.
+* update the configuration of your account so that you can use the whole set of services offered by internetVista®.
 
 == Changelog ==
 
