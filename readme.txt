@@ -69,6 +69,11 @@ The internetVista® services allow you to monitor your internet applications. Th
 * consult and update your user data, such as last name, first name, address, language, etc.
 * update the configuration of your account so that you can use the whole set of services offered by internetVista®.
 
+== Screenshots ==
+1. Performance chart in the plugin page
+2. Widget integration in the wordpress dashboard
+3. Dashboard sample in internetVista
+
 == Changelog ==
 
 = 1.0 =
