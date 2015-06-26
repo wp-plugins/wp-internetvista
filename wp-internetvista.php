@@ -71,10 +71,7 @@ class wp_internetvista {
 		'interval_date_diff' => null
 	);
 
-	private $_tabs = array(
-		'settings' => 'Settings',
-		'charts' => 'Charts'
-	);
+	private $_tabs;
 
 	private $_tab_current;
 
@@ -159,6 +156,11 @@ class wp_internetvista {
 	}
 
 	protected function initialize() {
+		$this->_tabs = array(
+			'settings' => __('Settings', self::ID),
+			'charts' => __('Charts', self::ID)
+		);
+
 		$this->set_options();
 
 		// Get current tab (default: charts)
@@ -1158,6 +1160,7 @@ class wp_internetvista {
 					}
 
 					// We can't redirect to the chart tab here ...
+					$this->_tab_current = 'charts';
 				}
 			}
 		} else {
