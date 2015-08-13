@@ -2,8 +2,8 @@
 Contributors: InternetVista
 Tags: monitoring, internetvista, website monitoring, web performance
 Requires at least: 3.0
-Tested up to: 4.0
-Stable tag: 1.0
+Tested up to: 4.3
+Stable tag: 1.0.1
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -75,6 +75,11 @@ The internetVista® services allow you to monitor your internet applications. Th
 3. Dashboard sample in internetVista
 
 == Changelog ==
+
+= 1.0.1 =
+* Minor change in the french translation
+* Co directly to "chart" tab after selecting a application
+* Use https instead of http to connect to the API
 
 = 1.0 =
 * Initial release

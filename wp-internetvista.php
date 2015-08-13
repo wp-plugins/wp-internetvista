@@ -25,15 +25,15 @@ class wp_internetvista {
 	const NAME = 'InternetVista';
 
 	/** This plugin's version */
-	const VERSION = '1.0';
+	const VERSION = '1.0.1';
 
 	/** REST api endpoint */
-	const REST_ENDPOINT = 'http://www.internetvista.com/restapi';
+	const REST_ENDPOINT = 'https://www.internetvista.com/restapi';
 
 	/** Date format used to display/parse date */
 	const DATE_FORMAT = 'd/m/Y';
 
-	const REGISTER_URL = 'http://www.internetVista.com/fr/register.htm';
+	const REGISTER_URL = 'https://www.internetVista.com/register.htm?nid=121';
 
 	private $_api = false;
 
