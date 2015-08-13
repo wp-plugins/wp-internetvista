@@ -3,7 +3,7 @@
 Plugin Name: InternetVista
 Plugin URI: http://wordpress.org/plugins/wp-internetvista/
 Description: Uptime is money - This plugin allows you to view directly from your WordPress dashboard the performance of your website (uptime and response time).
-Version: 1.0
+Version: 1.0.1
 Author: InternetVista <support@internetvista.com>
 Author URI: http://www.internetvista.com
 */
