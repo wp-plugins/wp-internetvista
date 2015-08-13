@@ -210,6 +210,7 @@ class RestClient implements Iterator, ArrayAccess {
 				$headers[$key] = array($headers[$key], $value);
 		}
 
+
 		$this->headers = (object) $headers;
 		$this->response = strtok("");
 
